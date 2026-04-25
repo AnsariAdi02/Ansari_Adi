@@ -2,7 +2,17 @@
 
 ### 🚀 IT Student & Tech Enthusiast
 - 🎓 **Current:** 2nd Year IT Student (SyIT) 
-- 🛠 **Current Project:** Gesture Control System using Computer Vision
+### 📂 Project Portfolio (Academic & Personal)
+- 🖐️ **Gesture Control System** | *Computer Vision & Python*
+  - Developed a real-time hand-tracking system using MediaPipe.
+- 🏗️ **Data Structures Library** | *Java & C++*
+  - Implementation of optimized search/sort algorithms and custom linked lists.
+- 🐧 **Linux Automation Scripts** | *Bash & Shell Programming*
+  - Created custom scripts for file management and system monitoring.
+- 💾 **Database Management System** | *SQL & Node.js*
+  - Designed a backend system for data storage and relational mapping.
+- 🛡️ **Software Engineering Lab** | *Documentation & Design*
+  - Engineered full-scale SRS documentation and UML diagrams for scalable apps.
 
 ---
 
@@ -25,3 +35,7 @@
 
 ---
 
+### 🏆 Leadership & Recognition
+- 🎖️ **Best Contingent Trophy** | Lead a team to victory at Zion Fest
+- ⚡ **Assistant Class Leader (ACL)** | Zestech Department Fest
+- 📈 **1st Place** | Zion Stock Exchange Competition
