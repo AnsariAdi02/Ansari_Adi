@@ -19,7 +19,7 @@
 ### 📊 My GitHub Power Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnsariAdi02&show_icons=true&theme=radical&rank_icon=github&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariAdi02&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
